@@ -6,7 +6,9 @@ Generally you need:
 * Implementing Class
 * Main Class that puts object into registry
 * Client Main Class
+
 ... and for callbacks ...
+
 * Interface on Client
 * Implementing Class
 * Data Structure on server to store clients to callback to
