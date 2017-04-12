@@ -18,6 +18,15 @@ Generally you need:
 * CHAN
 * SELECT
 
+## Distributed Objects & RMI
+* Remote Method Invocation
+* Remote Object References
+* Remote Interfaces
+* Middleware Objects
+ * Proxy
+ * Dispatcher
+ * Skeleton
+
 ## Transactions and Concurrency Control
 
 ## Coordination and Agreement
