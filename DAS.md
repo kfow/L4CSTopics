@@ -32,6 +32,9 @@ Generally you need:
 ## Coordination and Agreement
 
 ## Time Synchronisation and Event Ordering
+* Drift
+* External Sync, Internal Sync
 * Cristian's Simple Method for Sychronising Clock with Time Server
   * Main Assumptions
   * Bounds with Minimum Transmission Time
+* Network Time Protocol (NTP)
