@@ -41,15 +41,18 @@ ME3. Ordering
 2. Remote Interface
 
 ### 3 Implementation Choices of Request Reply Protocol
-1. FIFO
-2. Casual
-3. Total
-
+1. Maybe
+  * It maybe happens more than once, dunno though
+2. At Least Once
+3. At Most Once
 ### 3 Major Requirements of a DFS
 
 ### 3 Implications Shared By All Distributed Systems
 
 ### 3 Types of Multicast Ordering
+1. FIFO
+2. Casual
+3. Total
 
 ### 4 Main Tasks of Recovery Manager
 
