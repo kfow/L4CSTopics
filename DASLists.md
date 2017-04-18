@@ -15,18 +15,35 @@ These are all of the little lists that exist in DAS that need to be learned!
 
 
 ### 3 Rules of Happened Before
+1. If A happened before B the A -> B
+2. send(A) -> receive(A)
+3. If A->B and B->C then A->C (Transitivity)
 
 ### 2 Problems of Concurrency in Distributed Systems
+1. Inconsistent Reads
+2. Lost Update Problem
 
 ### 2 Requirements of Election Algorithms
+E1. Safety
+E2. Liveness
 
 ### 3 Requirements of Distributed Mutual Exclusion Algorithms
+ME1. Safety
+ME2. Liveness
+ME3. Ordering
 
 ### 2 Assumptions of Cristians Simple Method
+1. Time Out and Time Back are same or very similar
+2. Timeserver does not fail
 
 ### 2 Fundamental Concepts of Distributed Object Model
+1. Remote Object Reference
+2. Remote Interface
 
 ### 3 Implementation Choices of Request Reply Protocol
+1. FIFO
+2. Casual
+3. Total
 
 ### 3 Major Requirements of a DFS
 
